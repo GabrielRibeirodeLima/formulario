@@ -1,8 +1,8 @@
 table {
-background:black;
+background: blue;
 }
 
 td {
 border: 1px solid #808080;
-border-color:gray;
+border-color: gray;
 }
